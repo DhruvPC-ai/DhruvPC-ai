@@ -95,29 +95,7 @@ EXPLAIN ANALYZE SELECT ...;
 
 ---
 
-### ✍️ Random Dev Quote
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
-
----
-
-## 📊 Stats for Nerds
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DhruvPC-ai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvPC-ai&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DhruvPC-ai&label=Profile%20Views&color=0ea5e9&style=for-the-badge&labelColor=1e1e2e" alt="Profile views" />
-  <br/>
   ⭐ Thanks for visiting! Feel free to connect with me. ⭐
 </p>
 
