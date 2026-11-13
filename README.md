@@ -5,6 +5,7 @@
 
 <!-- Contact -->
 <p align="center">
+  <a href="https://dhruvpc-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/dhruv-chaudhary-b64b64371"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:dhruv7chaudhary@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/DhruvPC-ai?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
